@@ -2,22 +2,39 @@ Project Overview: Used a synthetic dataset to analyse customer shopping behaviou
 
 Dataset Overview: 
 Customer ID – Unique identifier for each customer
+
 Age – Age of the customer
+
 Gender – Gender of the customer
+
 Item Purchased – Product bought by the customer
+
 Category – Product category (e.g., Clothing, Accessories)
+
 Purchase Amount (USD) – Total amount spent in USD
+
 Location – Customer’s geographic location
+
 Size – Size of the purchased product
+
 Color – Color of the purchased item
+
 Season – Season in which purchase was made
+
 Review Rating – Customer rating for the product
+
 Subscription Status – Indicates if customer has a subscription
+
 Shipping Type – Mode of delivery selected
+
 Discount Applied – Whether discount was applied (Yes/No)
+
 Promo Code Used – Indicates if promo code was used
+
 Previous Purchases – Number of past purchases made
+
 Payment Method – Mode of payment (Card, Cash, etc.)
+
 Frequency of Purchases – How often customer makes purchases
 
 Project Objectives:
